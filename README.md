@@ -23,10 +23,6 @@ An enthusiastic Electronics and Communication Engineering Graduate specialized i
 *Backend Architecture | Flask, MySQL, REST API*
 - Architected a modular backend framework ensuring reliable data ingestion and secure user transactions.
 
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diwakarreddy-390&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarreddy-390&layout=compact&theme=radical)
-
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/diwakar-reddy-1928b1233)
 - 📧 diwakarreddy926@gmail.com
