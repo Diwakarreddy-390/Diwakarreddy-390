@@ -14,12 +14,12 @@ An enthusiastic Electronics and Communication Engineering Graduate specialized i
 
 ## 📁 Featured Projects
 
-### 🎬 [Movie Discovery Platform](https://github.com/Diwakarreddy-390/your-repo-link)
+### 🎬 [Movie Discovery Platform](https://github.com/Diwakarreddy-390/MOVIE-WEBSITE-USING-TMDB)
 *Full-Stack Data Delivery | ReactJS, Flask, Presto SQL*
 - Designed an interactive web UI with ReactJS coupled with custom component routing.
 - Optimized backend query latency and handled complex data manipulation via Presto SQL.
 
-### 📅 [Event Management System — Eventify](https://github.com/Diwakarreddy-390/your-repo-link)
+### 📅 [Event Management System — Eventify](https://github.com/Diwakarreddy-390/eventify)
 *Backend Architecture | Flask, MySQL, REST API*
 - Architected a modular backend framework ensuring reliable data ingestion and secure user transactions.
 
