@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mittapalli Diwakar Reddy 👋
 
-<!--
-**Diwakarreddy-390/Diwakarreddy-390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic Electronics and Communication Engineering Graduate specialized in Software Development, Backend Architectures, and AIML applications. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech in Electronics & Communication Engineering from GITAM University.
+- 💻 Passionate about building scalable APIs, optimizing database queries, and exploring Generative AI / Agentic AI workflows.
+- 🛠️ Currently focusing on clean code architecture, data validation, and end-to-end system testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolbelt
+- **Languages:** Python (OOP), JavaScript, SQL (MySQL, Presto SQL), C, Java
+- **Frameworks & Libs:** Flask, ReactJS, REST APIs, FastAPI (Learning)
+- **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux
+
+## 📁 Featured Projects
+
+### 🎬 [Movie Discovery Platform](https://github.com/Diwakarreddy-390/your-repo-link)
+*Full-Stack Data Delivery | ReactJS, Flask, Presto SQL*
+- Designed an interactive web UI with ReactJS coupled with custom component routing.
+- Optimized backend query latency and handled complex data manipulation via Presto SQL.
+
+### 📅 [Event Management System — Eventify](https://github.com/Diwakarreddy-390/your-repo-link)
+*Backend Architecture | Flask, MySQL, REST API*
+- Architected a modular backend framework ensuring reliable data ingestion and secure user transactions.
+
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diwakarreddy-390&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarreddy-390&layout=compact&theme=radical)
+
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/diwakar-reddy-1928b1233)
+- 📧 diwakarreddy926@gmail.com
